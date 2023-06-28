@@ -13,7 +13,7 @@ The point where the clustering model reaches the optimal number of clusters is k
 
 <img width="993" alt="Screenshot 2023-06-28 at 1 54 02 AM" src="https://github.com/rakeshreddyd56/BusinessAnalystProject/assets/58788206/727c0945-23fe-4261-9b42-653591dff85e">
 
-##Conclusion
+## Conclusion
 Customizing products, email campaigns, text messages, and advertisements based on individual customer needs is crucial for achieving higher engagement, click-through rates, and sales. Adopting a one-size-fits-all approach in business often leads to suboptimal results. To overcome this challenge, customer segmentation becomes essential.
 
 By identifying the optimal number of distinct customer groups, businesses gain insights into the unique preferences and requirements of their customer base. This understanding allows them to deliver personalized offerings that align with individual customer expectations. The application of customer segmentation not only enhances the overall customer experience but also drives company revenue. It has proven to be a key strategy for outperforming competitors and expanding customer base.
